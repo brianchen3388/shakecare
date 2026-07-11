@@ -1,0 +1,129 @@
+{"kind":"deck","id":"pr/wmwiyq","name":"Deck"}
+{"kind":"layout","layoutId":"6b9784d4-a72f-42ef-907d-dad908571742","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"85ea8e6c-65b1-4784-b578-8fdd1f7aa228","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/2cg3h8","slide":1,"title":"ELDER CARE WEARABLE","textShapes":4}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":1,"bbox":[0,0,760,720]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":1,"bbox":[72,72,248,42]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":1,"text":"ELDER CARE WEARABLE","textPreview":"ELDER CARE WEARABLE","textChars":19,"textLines":1,"bbox":[88,80,216,28]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":1,"text":"ShakeCare","textPreview":"ShakeCare","textChars":9,"textLines":1,"bbox":[72,172,500,84]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":1,"text":"The wristband that turns a fall, a freeze, or a desperate shake into a visible call for help.","textPreview":"The wristband that turns a fall, a freeze, or a desperate shake into a visible call for help.","textChars":93,"textLines":1,"bbox":[76,274,520,126]}
+{"kind":"shape","id":"sh/bq1oryts","slide":1,"bbox":[76,438,26,26]}
+{"kind":"shape","id":"sh/47y1kre1","slide":1,"bbox":[118,438,26,26]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":1,"bbox":[160,438,26,26]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":1,"text":"Green means safe. Yellow means watch. Red means act.","textPreview":"Green means safe. Yellow means watch. Red means act.","textChars":52,"textLines":1,"bbox":[76,486,460,70]}
+{"kind":"image","id":"im/o7qpg3ex","slide":1,"name":"","alt":"ShakeCare wearable concept on an older adult's wrist","bbox":[600,0,680,720]}
+{"kind":"notes","id":"nt/2cg3h8","slide":1,"text":""}
+{"kind":"slide","id":"sl/qxrfch","slide":2,"title":"The danger is not only the fall.","textShapes":5}
+{"kind":"textbox","id":"sh/onyd0z61","slide":2,"text":"The danger is not only the fall.","textPreview":"The danger is not only the fall.","textChars":32,"textLines":1,"bbox":[72,54,760,96]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":2,"text":"It is the silent minutes after it.","textPreview":"It is the silent minutes after it.","textChars":34,"textLines":1,"bbox":[74,142,640,64]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":2,"bbox":[78,244,510,250]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":2,"text":"A phone is across the room.\nA button is out of reach.\nA camera feels too invasive.","textPreview":"A phone is across the room. | A button is out of reach. | A camera feels too invasive.","textChars":82,"textLines":3,"bbox":[112,288,430,150]}
+{"kind":"shape","id":"sh/ovahoza1","slide":2,"bbox":[680,220,420,320]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":2,"text":"ShakeCare watches for the moments when older adults cannot explain what happened.","textPreview":"ShakeCare watches for the moments when older adults cannot explain what happened.","textChars":81,"textLines":1,"bbox":[728,284,330,150]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":2,"text":"ShakeCare  |  2","textPreview":"ShakeCare  |  2","textChars":15,"textLines":1,"bbox":[72,672,220,24]}
+{"kind":"notes","id":"nt/qxrfch","slide":2,"text":""}
+{"kind":"slide","id":"sl/is39sx","slide":3,"title":"ShakeCare makes distress obvious.","textShapes":9}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":3,"text":"ShakeCare makes distress obvious.","textPreview":"ShakeCare makes distress obvious.","textChars":33,"textLines":1,"bbox":[72,54,760,96]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":3,"text":"A simple product loop that works before the phone call happens.","textPreview":"A simple product loop that works before the phone call happens.","textChars":63,"textLines":1,"bbox":[74,142,640,64]}
+{"kind":"shape","id":"sh/tcj6tova","slide":3,"bbox":[88,260,330,230]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":3,"text":"Detect","textPreview":"Detect","textChars":6,"textLines":1,"bbox":[116,292,274,42]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":3,"text":"The wristband senses sudden motion, impact, stillness, and intentional shaking.","textPreview":"The wristband senses sudden motion, impact, stillness, and intentional shaking.","textChars":79,"textLines":1,"bbox":[116,354,268,104]}
+{"kind":"shape","id":"sh/0je9cvix","slide":3,"bbox":[462,260,330,230]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":3,"text":"Signal","textPreview":"Signal","textChars":6,"textLines":1,"bbox":[490,292,274,42]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":3,"text":"The LED matrix moves from green to yellow to red so anyone nearby understands the risk.","textPreview":"The LED matrix moves from green to yellow to red so anyone nearby understands the risk.","textChars":87,"textLines":1,"bbox":[490,354,268,104]}
+{"kind":"shape","id":"sh/bulwval8","slide":3,"bbox":[836,260,330,230]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":3,"text":"Relay","textPreview":"Relay","textChars":5,"textLines":1,"bbox":[864,292,274,42]}
+{"kind":"textbox","id":"sh/ulwval87","slide":3,"text":"A caregiver board mirrors the color and serves a live web dashboard to a computer.","textPreview":"A caregiver board mirrors the color and serves a live web dashboard to a computer.","textChars":82,"textLines":1,"bbox":[864,354,268,104]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":3,"text":"ShakeCare  |  3","textPreview":"ShakeCare  |  3","textChars":15,"textLines":1,"bbox":[72,672,220,24]}
+{"kind":"notes","id":"nt/is39sx","slide":3,"text":""}
+{"kind":"slide","id":"sl/xfccdi","slide":4,"title":"The demo already proves the full loop.","textShapes":13}
+{"kind":"textbox","id":"sh/bat47y1k","slide":4,"text":"The demo already proves the full loop.","textPreview":"The demo already proves the full loop.","textChars":38,"textLines":1,"bbox":[72,54,760,96]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":4,"text":"One motion event becomes a caregiver-facing alert.","textPreview":"One motion event becomes a caregiver-facing alert.","textChars":50,"textLines":1,"bbox":[74,142,640,64]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":4,"bbox":[92,290,82,82]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[92,310,82,46]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":4,"text":"Older adult falls","textPreview":"Older adult falls","textChars":17,"textLines":1,"bbox":[46,396,174,72]}
+{"kind":"shape","id":"sh/47y1kre1","slide":4,"bbox":[188,328,92,6]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":4,"bbox":[318,290,82,82]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[318,310,82,46]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":4,"text":"Wristband turns yellow","textPreview":"Wristband turns yellow","textChars":22,"textLines":1,"bbox":[272,396,174,72]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":4,"bbox":[414,328,92,6]}
+{"kind":"shape","id":"sh/at47y1kr","slide":4,"bbox":[544,290,82,82]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[544,310,82,46]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":4,"text":"Shake or no movement escalates","textPreview":"Shake or no movement escalates","textChars":30,"textLines":1,"bbox":[498,396,174,72]}
+{"kind":"shape","id":"sh/32lszqtc","slide":4,"bbox":[640,328,92,6]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":4,"bbox":[770,290,82,82]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[770,310,82,46]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":4,"text":"Caregiver display mirrors it","textPreview":"Caregiver display mirrors it","textChars":28,"textLines":1,"bbox":[724,396,174,72]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":4,"bbox":[866,328,92,6]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":4,"bbox":[996,290,82,82]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":4,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[996,310,82,46]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":4,"text":"Web dashboard logs the event","textPreview":"Web dashboard logs the event","textChars":28,"textLines":1,"bbox":[950,396,174,72]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":4,"text":"ShakeCare  |  4","textPreview":"ShakeCare  |  4","textChars":15,"textLines":1,"bbox":[72,672,220,24]}
+{"kind":"notes","id":"nt/xfccdi","slide":4,"text":""}
+{"kind":"slide","id":"sl/ci0403","slide":5,"title":"It is not another panic button.","textShapes":7}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":5,"text":"It is not another panic button.","textPreview":"It is not another panic button.","textChars":31,"textLines":1,"bbox":[72,54,760,96]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":5,"text":"The product combines passive detection with active confirmation.","textPreview":"The product combines passive detection with active confirmation.","textChars":64,"textLines":1,"bbox":[74,142,640,64]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":5,"bbox":[84,238,490,300]}
+{"kind":"textbox","id":"sh/obm58z25","slide":5,"text":"Passive safety","textPreview":"Passive safety","textChars":14,"textLines":1,"bbox":[120,284,360,44]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":5,"text":"A hard impact or 10 seconds of near-stillness can trigger escalation even if the person cannot speak or press anything.","textPreview":"A hard impact or 10 seconds of near-stillness can trigger escalation even if the person cannot speak or press anything.","textChars":119,"textLines":1,"bbox":[120,350,370,116]}
+{"kind":"shape","id":"sh/65wjudg7","slide":5,"bbox":[706,238,490,300]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":5,"text":"Active rescue","textPreview":"Active rescue","textChars":13,"textLines":1,"bbox":[742,284,360,44]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":5,"text":"After a warning, a strong repeated shake becomes a deliberate signal: I need help now.","textPreview":"After a warning, a strong repeated shake becomes a deliberate signal: I need help now.","textChars":86,"textLines":1,"bbox":[742,350,360,116]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":5,"text":"ShakeCare  |  5","textPreview":"ShakeCare  |  5","textChars":15,"textLines":1,"bbox":[72,672,220,24]}
+{"kind":"notes","id":"nt/ci0403","slide":5,"text":""}
+{"kind":"slide","id":"sl/j7fmop","slide":6,"title":"The first buyers are already worried.","textShapes":9}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":6,"text":"The first buyers are already worried.","textPreview":"The first buyers are already worried.","textChars":37,"textLines":1,"bbox":[72,54,760,96]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":6,"text":"ShakeCare fits the places where families and care teams need low-friction monitoring.","textPreview":"ShakeCare fits the places where families and care teams need low-friction monitoring.","textChars":85,"textLines":1,"bbox":[74,142,640,64]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":6,"bbox":[88,260,330,230]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":6,"text":"Families","textPreview":"Families","textChars":8,"textLines":1,"bbox":[116,292,274,42]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":6,"text":"Adult children caring for parents who live alone or spend time alone at home.","textPreview":"Adult children caring for parents who live alone or spend time alone at home.","textChars":77,"textLines":1,"bbox":[116,354,268,104]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":6,"bbox":[462,260,330,230]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":6,"text":"Care homes","textPreview":"Care homes","textChars":10,"textLines":1,"bbox":[490,292,274,42]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":6,"text":"Staff who need room-level alerts without putting cameras into private spaces.","textPreview":"Staff who need room-level alerts without putting cameras into private spaces.","textChars":77,"textLines":1,"bbox":[490,354,268,104]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":6,"bbox":[836,260,330,230]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":6,"text":"Community care","textPreview":"Community care","textChars":14,"textLines":1,"bbox":[864,292,274,42]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":6,"text":"Local elder-care teams that need affordable safety devices for daily visits.","textPreview":"Local elder-care teams that need affordable safety devices for daily visits.","textChars":76,"textLines":1,"bbox":[864,354,268,104]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":6,"text":"ShakeCare  |  6","textPreview":"ShakeCare  |  6","textChars":15,"textLines":1,"bbox":[72,672,220,24]}
+{"kind":"notes","id":"nt/j7fmop","slide":6,"text":""}
+{"kind":"slide","id":"sl/ccv2ak","slide":7,"title":"We sell the care loop, not the gadget.","textShapes":9}
+{"kind":"textbox","id":"sh/4nap4r65","slide":7,"text":"We sell the care loop, not the gadget.","textPreview":"We sell the care loop, not the gadget.","textChars":38,"textLines":1,"bbox":[72,54,760,96]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":7,"text":"Hardware gets ShakeCare onto the wrist. Service keeps people connected.","textPreview":"Hardware gets ShakeCare onto the wrist. Service keeps people connected.","textChars":71,"textLines":1,"bbox":[74,142,640,64]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":7,"bbox":[92,250,310,214]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":7,"text":"Device sale","textPreview":"Device sale","textChars":11,"textLines":1,"bbox":[126,294,230,40]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":7,"text":"A simple wearable and caregiver hub for families or institutions.","textPreview":"A simple wearable and caregiver hub for families or institutions.","textChars":65,"textLines":1,"bbox":[126,356,228,78]}
+{"kind":"shape","id":"sh/bq1oryts","slide":7,"bbox":[486,250,310,214]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":7,"text":"Monitoring layer","textPreview":"Monitoring layer","textChars":16,"textLines":1,"bbox":[520,294,250,40]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":7,"text":"Dashboards, logs, and escalation workflows for care teams.","textPreview":"Dashboards, logs, and escalation workflows for care teams.","textChars":58,"textLines":1,"bbox":[520,356,230,78]}
+{"kind":"shape","id":"sh/47y1kre1","slide":7,"bbox":[880,250,310,214]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":7,"text":"Service partners","textPreview":"Service partners","textChars":16,"textLines":1,"bbox":[914,294,230,40]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":7,"text":"Insurance, home-care services, and community programs can bundle it.","textPreview":"Insurance, home-care services, and community programs can bundle it.","textChars":68,"textLines":1,"bbox":[914,356,230,78]}
+{"kind":"textbox","id":"sh/sji5snel","slide":7,"text":"ShakeCare  |  7","textPreview":"ShakeCare  |  7","textChars":15,"textLines":1,"bbox":[72,672,220,24]}
+{"kind":"notes","id":"nt/ccv2ak","slide":7,"text":""}
+{"kind":"slide","id":"sl/x30xi0","slide":8,"title":"The path to product is focused.","textShapes":11}
+{"kind":"textbox","id":"sh/2t83itgf","slide":8,"text":"The path to product is focused.","textPreview":"The path to product is focused.","textChars":31,"textLines":1,"bbox":[72,54,760,96]}
+{"kind":"textbox","id":"sh/9knih4by","slide":8,"text":"Keep the alert loop small, then harden reliability.","textPreview":"Keep the alert loop small, then harden reliability.","textChars":51,"textLines":1,"bbox":[74,142,640,64]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":8,"text":"Now","textPreview":"Now","textChars":3,"textLines":1,"bbox":[130,230,130,42]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":8,"bbox":[292,222,760,62]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":8,"text":"Wristband prototype, caregiver board, live web dashboard","textPreview":"Wristband prototype, caregiver board, live web dashboard","textChars":56,"textLines":1,"bbox":[322,236,700,34]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"text":"Next","textPreview":"Next","textChars":4,"textLines":1,"bbox":[130,322,130,42]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":8,"bbox":[292,314,760,62]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":8,"text":"Reset button, battery pack, better enclosure, real wearing tests","textPreview":"Reset button, battery pack, better enclosure, real wearing tests","textChars":64,"textLines":1,"bbox":[322,328,700,34]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":8,"text":"Pilot","textPreview":"Pilot","textChars":5,"textLines":1,"bbox":[130,414,130,42]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":8,"bbox":[292,406,760,62]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":8,"text":"Care-home trial, false-alarm tuning, SMS or app notification","textPreview":"Care-home trial, false-alarm tuning, SMS or app notification","textChars":60,"textLines":1,"bbox":[322,420,700,34]}
+{"kind":"textbox","id":"sh/ulwval87","slide":8,"text":"Product","textPreview":"Product","textChars":7,"textLines":1,"bbox":[130,506,130,42]}
+{"kind":"shape","id":"sh/j6tovaho","slide":8,"bbox":[292,498,760,62]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":8,"text":"Smaller wearable, charging dock, care-team dashboard","textPreview":"Smaller wearable, charging dock, care-team dashboard","textChars":52,"textLines":1,"bbox":[322,512,700,34]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":8,"text":"ShakeCare  |  8","textPreview":"ShakeCare  |  8","textChars":15,"textLines":1,"bbox":[72,672,220,24]}
+{"kind":"notes","id":"nt/x30xi0","slide":8,"text":""}
+{"kind":"slide","id":"sl/ztub5k","slide":9,"title":"We are asking for partners to test the moment that matters.","textShapes":6}
+{"kind":"textbox","id":"sh/loj2t83i","slide":9,"text":"We are asking for partners to test the moment that matters.","textPreview":"We are asking for partners to test the moment that matters.","textChars":59,"textLines":1,"bbox":[82,78,920,138]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":9,"text":"Not a future hospital system. A practical first layer that helps families and caregivers see risk sooner.","textPreview":"Not a future hospital system. A practical first layer that helps families and caregivers see risk sooner.","textChars":105,"textLines":1,"bbox":[86,232,760,76]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":9,"bbox":[86,386,328,126]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":9,"text":"Test with real routines","textPreview":"Test with real routines","textChars":23,"textLines":1,"bbox":[116,422,250,34]}
+{"kind":"shape","id":"sh/lwval87e","slide":9,"bbox":[476,386,328,126]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":9,"text":"Tune false alarms","textPreview":"Tune false alarms","textChars":17,"textLines":1,"bbox":[506,422,240,34]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":9,"bbox":[866,386,328,126]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":9,"text":"Build the care network","textPreview":"Build the care network","textChars":22,"textLines":1,"bbox":[896,422,260,34]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":9,"text":"ShakeCare","textPreview":"ShakeCare","textChars":9,"textLines":1,"bbox":[82,610,320,54]}
+{"kind":"notes","id":"nt/ztub5k","slide":9,"text":""}
